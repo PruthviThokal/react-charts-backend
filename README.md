@@ -2,4 +2,10 @@
 
 # Steps to run backend
 
-### Run npm install
+### Run: 'npm install'
+
+### Add .env file in root directory.
+
+### Configure mongodb url connection.
+
+### Run: 'npm start' to start application.
